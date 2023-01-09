@@ -19,6 +19,7 @@ We have done manual data saggerigation using sleep stage labels. After that we a
 Run normal and all disorder files (file name starts with darji) to calculate the features of all the subjects. 
 
 %%%%% Classification %%%%%
+
 Last step is to feed all the features to classification algorithms. we obtained best results with ensembal bagged trees.
 
 
